@@ -15,6 +15,10 @@ scroll-behaviour: smooth;
   }
 .sidebar {
   position: fixed;
+  display: flex;
+  flex-direction: column;
+  aling-items: centre;
+  justify-content: space-between;
   top: 0;
   left: 0;
   width: 15%;
