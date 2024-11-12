@@ -1,0 +1,7 @@
+html,
+body{
+scroll-behaviour: smooth;
+  background-color: black;
+  font-family: "Roboto", -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif;
+  color: white;
+}
