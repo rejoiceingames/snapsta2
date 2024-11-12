@@ -14,5 +14,12 @@ scroll-behaviour: smooth;
   width: 100vw;
   }
 .sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
   width: 15%;
+  height: 100vh;
+  background-color: var(--white);
+  color: var(--white);
+  border-right: 1px solid var(--grey);
 }
