@@ -27,3 +27,6 @@ scroll-behaviour: smooth;
   color: var(--white);
   border-right: 1px solid var(--grey);
 }
+.logo{
+  width: 90px;
+}
