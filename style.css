@@ -1,6 +1,6 @@
 :root{
-  --white: #fff;
-    --black: #000;
+   #fff;
+     #000;
 }
 
 html,
@@ -23,9 +23,9 @@ scroll-behaviour: smooth;
   left: 0;
   width: 15%;
   height: 100vh;
-  background-color: var(--white);
-  color: var(--white);
-  border-right: 1px solid var(--grey);
+  background-color: var(#fff);
+  color: var(#FFF);
+  border-right: 1px solid var(#A9A9A9);
 }
 .logo{
   width: 90px;
